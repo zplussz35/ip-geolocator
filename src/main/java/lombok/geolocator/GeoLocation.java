@@ -1,4 +1,4 @@
-package geolocator;
+package lombok.geolocator;
 
 @lombok.Data
 public class GeoLocation {

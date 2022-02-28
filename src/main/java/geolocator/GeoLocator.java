@@ -4,6 +4,7 @@ import feign.Feign;
 import feign.Param;
 import feign.RequestLine;
 import feign.jackson.JacksonDecoder;
+import lombok.geolocator.GeoLocation;
 
 public interface GeoLocator {
 
